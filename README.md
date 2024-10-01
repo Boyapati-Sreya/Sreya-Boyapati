@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sreya-Boyapati
+- 👋 Hi, I’m @Boyapati Sreya
 - 👀 I’m interested in Gaming and creating Web Dev projects
 - 🌱 I’m currently learning B.E @Gokaraju Lailavathi Womens Engineering College,Branch-CSE
 - 💞️ I’m looking to collaborate on Web Dev Projects
